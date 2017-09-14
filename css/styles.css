@@ -1,0 +1,39 @@
+.btn-primary {
+background-color: red;
+}
+
+.button-thing {
+  text-align: center;
+}
+
+
+
+
+.col-md-4 {
+  height: 50px;
+}
+
+.one {
+  border: solid 1px;
+  height: 250px;
+}
+
+.two {
+  border: solid 1px;
+  height: 250px;
+}
+
+.three {
+  border: solid 1px;
+  height: 250px;
+}
+
+
+.abril-text {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.footer {
+  background-color: black;
+  height: 100px;
+}
