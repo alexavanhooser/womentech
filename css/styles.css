@@ -1,0 +1,68 @@
+.btn-primary {
+background-color: red;
+}
+
+.button-thing {
+  text-align: center;
+}
+
+
+
+
+.col-md-4 {
+  height: 50px;
+}
+
+.one {
+  height: 250px;
+  padding-top: 40px;
+}
+
+.two {
+  height: 250px;
+  padding-top: 40px;
+}
+
+.three {
+  height: 250px;
+  padding-top: 40px;
+}
+
+
+.abril-text {
+  font-family: 'Abril Fatface', cursive;
+}
+
+footer {
+  background-color: #D3D3D3;
+  height: auto;
+  width: auto;
+  text-align: center;
+}
+
+.footer-text {
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-phone-square {
+  background: #896978;
+  color: white;
+}
+
+.fa-comments-o {
+  background: #9FA2B2;
+  color: white;
+}
