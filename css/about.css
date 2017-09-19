@@ -1,0 +1,36 @@
+.btn-primary {
+background-color: #F6BD60;
+}
+
+.button-thing {
+  text-align: center;
+}
+
+.col-md-4 {
+  height: 50px;
+}
+
+.one {
+  height: 250px;
+  padding-top: 40px;
+}
+
+.two {
+  height: 250px;
+  padding-top: 40px;
+}
+
+.three {
+  height: 250px;
+  padding-top: 40px;
+}
+
+
+.abril-text {
+  font-family: 'Abril Fatface', cursive;
+}
+
+html {
+    display: block;
+  text-align: center;
+}
